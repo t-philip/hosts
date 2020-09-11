@@ -9,9 +9,11 @@
 # ===============================================================
 
 # Start 
-0.0.0.0 ^https?://+([^:/]+\.)?youtube\.com[:/]
-0.0.0.0 ^https?://+([^:/]+\.)?netflix\.com[:/]
-0.0.0.0 ^https?://+([^:/]+\.)?primevideo\.com[:/]
-0.0.0.0 ^https?://+([^:/]+\.)?spotify\.com[:/]
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 www.netflix.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 www.spotify.com
+0.0.0.0 open.spotify.com
 
 # End
