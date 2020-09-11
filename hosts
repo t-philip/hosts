@@ -1,14 +1,17 @@
-# Title: T.Philip/hosts with the customized extension
+# Title: t-philip/hosts with the customized extension
 #
 # Date: 11 September 2020 18:00:00 (CET)
 # Extensions added to this file: customized
 #
+# Fetch the latest version of this file: https://raw.githubusercontent.com/t-philip/hosts/master/hosts
+# Project home page: https://github.com/t-philip/hosts
+#
 # ===============================================================
 
 # Start 
-0.0.0.0 www.youtube.com
-0.0.0.0 www.netflix.com
-0.0.0.0 www.primevideo.com
-0.0.0.0 www.spotify.com
+0.0.0.0 ^https?://+([^:/]+\.)?youtube\.com[:/]
+0.0.0.0 ^https?://+([^:/]+\.)?netflix\.com[:/]
+0.0.0.0 ^https?://+([^:/]+\.)?primevideo\.com[:/]
+0.0.0.0 ^https?://+([^:/]+\.)?spotify\.com[:/]
 
 # End
