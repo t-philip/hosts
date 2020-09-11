@@ -1,0 +1,14 @@
+# Title: T.Philip/hosts with the customized extension
+#
+# Date: 11 September 2020 18:00:00 (CET)
+# Extensions added to this file: customized
+#
+# ===============================================================
+
+# Start 
+0.0.0.0 www.youtube.com
+0.0.0.0 www.netflix.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 www.spotify.com
+
+# End
