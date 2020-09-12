@@ -85,6 +85,8 @@
 0.0.0.0 sling.com
 0.0.0.0 songza.com
 0.0.0.0 soundcloud.com
+0.0.0.0 (^|.)spotify.com$
+0.0.0.0 *spotify.com
 0.0.0.0 spotify.com
 0.0.0.0 stitcher.com
 0.0.0.0 tidal.com
