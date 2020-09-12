@@ -7,6 +7,10 @@
 # Fetch the latest version of this file: raw.githubusercontent.com/t-philip/hosts/master/hosts
 # Project home page: github.com/t-philip/hosts
 #
+# Additional Information : In case you want to block all possible sub-domains and directories for 'domain.com' then use RegEx : (^|.)domain.com(|.$)
+# Add this in Pi-Hole's blacklist tab under RegEx
+# Example : (^|.)spotify.com(|.$) will block spotify.com, www.spotify.com, open.spotify.com, www.spotify.com/be-fr/
+#
 # ===============================================================
 
 # Start 
