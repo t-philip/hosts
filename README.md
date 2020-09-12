@@ -1,3 +1,4 @@
-## Host file for the Pi-Hole Gravity list update.
+## Host file for the Pi-Hole Gravity list update - Blocking Streaming Music & Video websites  
 This avoids the hassle of adding multiple URLs as **Blacklist** in Pi-Hole Admin interface.  
-*List of customized URLs that need to be blocked at the host file level.*
+-*Goal is to add more URLs that offer streaming music & video content.*  
+ 
