@@ -1,10 +1,17 @@
 ## This repository has moved
 
-This repo has been consolidated into **[t-philip/public](https://github.com/t-philip/public)**.
+These blocklists now live in **[t-philip/blocklists](https://github.com/t-philip/blocklists)**.
 
-Please update your Pi-Hole gravity list URL to:
+Please update your Pi-hole or AdGuard Home list URLs to:
 
-`https://raw.githubusercontent.com/t-philip/public/main/hosts/online_streaming_domains`
+```
+https://raw.githubusercontent.com/t-philip/blocklists/main/hosts/malware_domains
+https://raw.githubusercontent.com/t-philip/blocklists/main/hosts/online_streaming_domains
+```
+
+> **Previously pointed at `t-philip/public`?** That URL still works — GitHub keeps
+> serving the old repository name — but please move to the `/blocklists/` URLs above,
+> which are the canonical location going forward.
 
 ---
 
